@@ -1,29 +1,41 @@
-name: jared
-favicon: null
-layout_spectrum: 0.99344
-typography_spectrum: 0.21275
 title: daily jared
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.5625
+  brandStrength: 0.0625
+  rhythmicContrast: 0.75
   brandColors:
     - '#e1e1e1'
     - '#4c4c4c'
     - '#c7c7c7'
     - '#676767'
     - '#a0a0a0'
-  brandStrength: 0.0625
   lightness: 0.625
-  saturation: 0.5625
-  rhythmicContrast: 0.75
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: jared
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.21275
+layout_spectrum: 0.6953405
