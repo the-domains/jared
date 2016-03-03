@@ -1,0 +1,28 @@
+name: jared
+favicon: null
+layout_spectrum: 0.756953953532502
+typography_spectrum: 0.6470142328180373
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.9000417971983552
+  lightness: 0.605335648637265
+  saturation: 0.4720008207950741
+  rhythmicContrast: 0.027008467353880405
+purpose: []
