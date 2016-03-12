@@ -4,8 +4,15 @@
         <description><![CDATA[daily jared]]></description>
         <link>https://thegrid.ai/jared/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 03 Mar 2016 23:37:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Mar 2016 20:07:08 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jared/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>The past two days were very interesting. I ended up going downtown to work with some people from our team and some external creatives. We worked at Brightlane coworking space. It made me really miss the time at Shopify head office and really dread going back to work on Monday. </p>]]></description>
+            <link>https://thegrid.ai/jared/the-past-two-days-were-very-interesting-i-ended-up-going-do/index.html</link>
+            <guid isPermaLink="false">8f85b6e0-1649-4924-b69c-fee3415e4e08</guid>
+            <pubDate>Sat, 12 Mar 2016 20:06:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Title]]></title>
             <description><![CDATA[<article><h1>Title</h1><p>this is my second post</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/535bbbf2207e78ad88710e0a8af583c9d61c213d.jpg"></article>]]></description>
