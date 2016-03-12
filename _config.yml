@@ -1,5 +1,8 @@
+name: jared
+favicon: null
+layout_spectrum: 0.00918
+typography_spectrum: 0.21275
 title: daily jared
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.5625
-  brandStrength: 0.0625
-  rhythmicContrast: 0.75
   brandColors:
     - '#e1e1e1'
     - '#4c4c4c'
     - '#c7c7c7'
     - '#676767'
     - '#a0a0a0'
+  brandStrength: 0.0625
   lightness: 0.625
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-name: jared
-favicon: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.21275
-layout_spectrum: 0.6953405
+  saturation: 0.5625
+  rhythmicContrast: 0.75
+purpose: []
