@@ -1,6 +1,6 @@
 name: jared
 favicon: null
-layout_spectrum: 0.00918
+layout_spectrum: 0.2089
 typography_spectrum: 0.21275
 title: daily jared
 collections:
@@ -37,5 +37,5 @@ color:
   brandStrength: 0.0625
   lightness: 0.625
   saturation: 0.5625
-  rhythmicContrast: 0.75
+  rhythmicContrast: 1
 purpose: []
